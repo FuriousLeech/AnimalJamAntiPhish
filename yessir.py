@@ -4,10 +4,8 @@ import random
 
 
 
-#url that you want to spam
-url = input("Url: ")
-
-
+#INPUT THE PHISHING PAGE URL IN HERE
+url2 = ('')
 
 
 #usernames and passwords that it will use at random
@@ -121,8 +119,7 @@ p21 = random.choice(pass21)
 
 
 
-#this is selecting the input you did from the first url input
-url2 = (url)
+
 
 
 
